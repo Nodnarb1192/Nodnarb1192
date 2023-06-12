@@ -50,9 +50,8 @@ Portfolio: www.brandonwharrelson.com
 
 ### Education 🎓
 * **Data Science Program**, Practicum USA, Online (2023)
-* **Coding BootCamp for Data Science and Analytics**
 * **Coursera Certifications**:
   * Applied Data Science Capstone
   * Capstone: Retrieving, Processing, & Visualizing Data with Python
   * Python for Everybody Specialization
-* **Udemy Certification**:
+
