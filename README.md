@@ -15,7 +15,7 @@ Currently open to new opportunities and willing to participate in outsourcing pr
 
 ### Let's Connect! 📫
 Email: Brandon_h92@outlook.com   
-LinkedIn: https://www.linkedin.com/in/brandon-harrelson/ 
+LinkedIn: https://www.linkedin.com/in/brandon-harrelson/
 Portfolio: www.brandonwharrelson.com
 
 ### Tech Stack 🛠️
