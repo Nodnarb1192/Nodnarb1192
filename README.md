@@ -5,7 +5,7 @@ Highly resourceful and technically skilled professional with proven expertise in
 
 My accomplishments include a series of certificates from Coursera and Udemy, which helped me to hone my knowledge in key areas such as Python, Pandas, Matplotlib, sci-kit-learn, and MySQL. My core competencies lie in database maintenance, data visualization, automation & scripting, artificial intelligence, and machine learning.
 
-Currently open to new opportunities and willing to participate in outsourcing projects. If my profile resonates with you, feel free to get in touch. Open to relocation.
+Currently open to new opportunities and willing to participate in outsourcing projects. If my profile resonates with you, feel free to get in touch.
 
 ### Fun Facts About Me: 
 * I began my career in a completely different field, transitioning from a Pipefitter Helper to a Leadman Mechanical, before immersing myself in the world of IT and Data Science. 
@@ -23,7 +23,6 @@ Portfolio: www.brandonwharrelson.com
 * **Libraries/Frameworks**: Pandas, Matplotlib, Sci-kit-learn
 * **Databases**: MySQL
 * **Version Control**: Git, GitHub
-* **Data Visualization Tools**: Tableau
 
 ### Key Skills 💼
 * Proficient in Python, Machine Learning, Database Development (MySQL)
