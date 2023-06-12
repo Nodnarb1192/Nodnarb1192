@@ -1,7 +1,5 @@
 # Hello there, I'm Brandon Harrelson! 👋
 
-![Brandon's profile picture](https://avatars.githubusercontent.com/u/85964562?s=400&u=a1265f493d6f7be85d16214384c23cb233ab4334&v=4)
-
 ## About Me 📝
 Highly resourceful and technically skilled professional with proven expertise in software development, automation, scripting, and more. I began my journey as a Pipefitter Helper and presently work as a Python Developer at Odyssey Analytics. Along the way, I developed a keen eye for troubleshooting and problem-solving in the IT space, earning a six-week internship program in data science. To further augment my skills, I enrolled in an intensive Data Science Program at Practicum USA.
 
